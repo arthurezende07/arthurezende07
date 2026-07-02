@@ -10,8 +10,6 @@ Engenheiro de Produção (UFJF) em análise de dados. O que me move é a ponte e
 - **[superstore-python-powerbi](https://github.com/arthurezende07/superstore-python-powerbi)** · Análise de vendas de varejo com Python e Power BI. `Python` `Power BI`
 - **[northwind-sql-powerbi](https://github.com/arthurezende07/northwind-sql-powerbi)** · Análise comercial B2B com SQL e Power BI. `SQL` `Power BI`
 
-Em construção: análise de Fórmula 1 (`SQL` `Power BI`).
-
 #### Contato
 
 [LinkedIn](https://linkedin.com/in/arthur-rezende-3463883a3) · arthurezende07@gmail.com
